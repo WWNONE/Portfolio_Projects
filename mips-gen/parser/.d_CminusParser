@@ -1,0 +1,7 @@
+libparser-g.a(CminusParser.o): CminusParser.c ../util/general.h \
+ ../util/symtab.h ../util/general.h ../util/symtab_stack.h \
+ ../util/symtab.h ../util/dlink.h ../util/dlink.h ../util/string_utils.h \
+ ../codegen/symfields.h ../codegen/types.h ../codegen/../util/general.h \
+ ../codegen/../util/symtab.h ../codegen/symfields.h ../codegen/reg.h \
+ CminusParser.h ../codegen/codegen.h ../codegen/../util/dlink.h \
+ ../codegen/types.h

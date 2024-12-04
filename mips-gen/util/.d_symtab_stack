@@ -1,0 +1,2 @@
+libutil-g.a(symtab_stack.o): symtab_stack.c general.h symtab.h dlink.h \
+ string_utils.h symtab_stack.h

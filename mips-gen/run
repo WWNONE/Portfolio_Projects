@@ -1,0 +1,24 @@
+make clean
+clear
+make
+echo ""
+
+./cmc input/1.if.cm
+./cmc input/2.if.cm
+./cmc input/3.if.cm
+./cmc input/4.if.cm
+./cmc input/5.if.cm
+./cmc input/6.while.cm
+./cmc input/7.while.cm
+./cmc input/8.while.cm
+./cmc input/9.nest.cm
+./cmc input/10.whileif.cm
+./cmc input/11.array.cm
+./cmc input/12.array.cm
+./cmc input/13.hack_array.cm
+./cmc input/14.if_array.cm
+./cmc input/15.whilearray.cm
+./cmc input/16.twoarrays.cm
+./cmc input/17.dynamic.cm
+./cmc input/18.newdyn.cm
+./cmc input/19.bubble.cm
